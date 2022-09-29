@@ -1,0 +1,82 @@
+name: weweyou
+description: An app for creating and joining Events.
+publish_to: 'none'
+version: 1.0.0+2
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  #PACKAGES FOR UI
+  cupertino_icons: ^1.0.2
+  page_view_indicators: ^2.0.0
+  sn_progress_dialog: ^1.0.8
+  dropdown_button2: ^1.6.2
+  fluttertoast: ^8.0.9
+  flutter_svg: ^1.1.1+1
+  carousel_slider: ^4.1.1
+  date_picker_timeline: ^1.2.3 #Used for Designing of the Calender
+  infinite_scroll_pagination: ^3.2.0
+
+  #PACKAGES FOR Functionality
+  provider: ^6.0.3
+  flutter_facebook_auth: ^4.4.1+1
+  dio: ^4.0.6
+  shared_preferences: ^2.0.15
+  place_picker: ^0.9.20-nullsafety
+  country_picker: ^2.0.15
+  intl: ^0.17.0 #Used for formatting Date
+  image_picker: ^0.8.5+3
+  video_thumbnail: ^0.5.2
+  http: ^0.13.5
+  webview_flutter: ^3.0.4
+  easy_localization: ^3.0.1
+  google_maps_flutter: ^2.2.0
+  firebase_core: ^1.23.0
+  firebase_auth: ^3.10.0
+  google_sign_in: ^5.4.2
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^2.0.0
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images_icons/onboarding/
+    - assets/images_icons/home_screen/
+    - assets/images_icons/create_event_card/
+    - assets/translations/
+    - assets/loader/
+
+
+
+
+  fonts:
+    - family: Poppins-Bold
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Bold.ttf
+    - family: Poppins-Medium
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Medium.ttf
+    - family: Poppins-Regular
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-Regular.ttf
+    - family: Poppins-SemiBold
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-SemiBold.ttf
+    - family: Poppins-SemiBoldItalic
+      fonts:
+        - asset: assets/fonts/poppins/Poppins-SemiBoldItalic.ttf
+
+

@@ -1,0 +1,53 @@
+{
+  "on_boarding": {
+    "book_event": "Book Event Nearby",
+    "book_event_des": "Lorem Ipsum is simply dummy text'\n'of the printing and typesetting'\n'industry standard dummy.",
+    "create_sub": "Create Sub Events",
+    "create_sub_des": "Lorem Ipsum is simply dummy text'\n'of the printing and typesetting'\n'industry standard dummy.",
+    "share_itinerary": "Create & Share Itinerary",
+    "share_itinerary_des": "Lorem Ipsum is simply dummy text'\n'of the printing and typesetting'\n'industry standard dummy.",
+    "get_started": "Get Started!"
+  },
+  "sign_up": {
+    "create_acc": "Create Account",
+    "create_acc_des": "Please fill the below details to create your weweyou account.",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "phone_num": "Phone Number",
+    "confirm_pass": "Confirm Password",
+    "sign_up_btn": "Signup Now",
+    "bottom_title": "Already have an account? ",
+    "loader_text": "Registering User...",
+    "search_code": "Search your country code.."
+  },
+  "sign_in": {
+    "login_now": "Login Now",
+    "login_now_des": "Please fill the below details to login your weweyou account.",
+    "email": "Email",
+    "password": "Password",
+    "forgot_password": "Forgot Password?",
+    "or": "or",
+    "bottom_title": "Don't have an account? ",
+    "bottom_title2": "Create Account.",
+    "loader_text": "Signing User",
+    "forgot_pass_des": "Please enter your email below.",
+    "submit_btn": "Submit",
+    "close_btn": "Close",
+    "sending_mail": "Sending Mail.."
+  },
+  "validations": {
+    "is_req": "is required.",
+    "pass_req": "Password is required.",
+    "pass_req_l": "Enter minimum 8 letters.",
+    "con_pass_req": "Confirm Password is required",
+    "email_req": "Email is required.",
+    "email_valid": "Please Enter valid Email."
+  },
+  "select_cat": {
+    "heading": "Select Categories",
+    "sub_heading": "You can select up-to 4 categories",
+    "select_btn": "Select & Proceed",
+    "loader_text": "Wait a Moment...\n We are personalizing your Experience",
+    "validator_toast" : "Please select At-least 2 Categories"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "on_boarding": {
+    "book_event": "Réserver un événement à proximité",
+    "book_event_des": "Le Lorem Ipsum est simplement un texte factice '\n'de l'impression et de la composition'\n'fictif standard de l'industrie.",
+    "create_sub": "Créer des sous-événements",
+    "create_sub_des": "Le Lorem Ipsum est simplement un texte factice '\n'de l'impression et de la composition'\n'fictif standard de l'industrie.",
+    "share_itinerary": "Créer et partager un itinéraire",
+    "share_itinerary_des": "Le Lorem Ipsum est simplement un texte factice '\n'de l'impression et de la composition'\n'fictif standard de l'industrie.",
+    "get_started": "Commencer!"
+  },
+  "sign_up": {
+    "create_acc": "Créer un compte",
+    "create_acc_des": "Veuillez remplir les informations ci-dessous pour créer votre compte weweyou.",
+    "first_name": "Prénom",
+    "last_name": "Nom de famille",
+    "phone_num": "Numéro de téléphone",
+    "confirm_pass": "Confirmez le mot de passe",
+    "sign_up_btn": "S'inscrire maintenant",
+    "bottom_title": "Vous avez déjà un compte?",
+    "loader_text": "Enregistrement de l'utilisateur...,",
+    "search_code": "Recherchez votre code pays.."
+  },
+  "sign_in": {
+    "login_now": "Connecte-toi maintenant",
+    "login_now_des": "Veuillez remplir les informations ci-dessous pour vous connecter à votre compte weweyou.",
+    "email": "E-mail",
+    "password": "Mot de passe",
+    "forgot_password": "Mot de passe oublié?  ",
+    "or": "ou",
+    "bottom_title": "Vous n'avez pas de compte? ",
+    "bottom_title2": "Créer un compte.",
+    "loader_text": "Utilisateur signataire",
+    "forgot_pass_des": "Veuillez entrer votre email ci-dessous. ",
+    "submit_btn": "Soumettre",
+    "close_btn": "proche",
+    "sending_mail": "Envoi de mail.."
+  },
+  "validations": {
+    "is_req": "est requis.",
+    "pass_req": "Mot de passe requis.",
+    "pass_req_l": "Entrez au moins 8 lettres.",
+    "con_pass_req": "Confirmer le mot de passe est requis.",
+    "email_req": "Un e-mail est requis.",
+    "email_valid": "Veuillez saisir un identifiant de messagerie valide."
+  },
+  "select_cat": {
+    "heading": "Sélectionnez les catégories",
+    "sub_heading": "Vous pouvez sélectionner jusqu'à 4 catégories",
+    "select_btn": "Sélectionner et continuer",
+    "loader_text": "Attendez un instant...\nNous personnalisons votre expérience",
+    "validator_toast" : "Veuillez sélectionner au moins 2 catégories."
+  }
+}
