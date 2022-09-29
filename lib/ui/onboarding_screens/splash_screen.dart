@@ -48,8 +48,8 @@ class _SplashScreenState extends State<SplashScreen>
     var checkLogin = prefes.getBool('isLogin') ?? false;
     var newUser = prefes.getBool('newUser') ?? true;
 
-    debugPrint("isLogin $checkLogin");
-    debugPrint("newUser $newUser");
+    debugPrint("Login Bool $checkLogin");
+    debugPrint("NewUser bool $newUser");
     if (newUser == true) {
       navigator.pushReplacementNamed("/previewScreen");
     } else if (checkLogin == true) {
